@@ -29,5 +29,5 @@ def  MANIUAK(password):
 
 
 
-password = ("A@dasswodawd1")
+password = ("A@dasswodawd0")
 print(MANIUAK(password))
